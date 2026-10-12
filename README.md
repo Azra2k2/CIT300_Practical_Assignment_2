@@ -11,10 +11,10 @@ Searching (Linear/Binary), Graph (BFS/DFS) and a performance comparison of algor
 
 | Student Name | Student ID | Assigned Responsibility |
 |---|---|---|
-| J. Afrosha  | 23DA2-0761 | Array and Searching |
-| S. Azra Banu  | 23DA2-0704 | Stack and Queue |
+| J. Afrosha | 23DA2-0761 | Array and Searching |
+| S. Azra Banu | 23DA2-0704 | Stack, Queue and Input Validation |
 | AM. Fathima Naseeha | 23DA2-0726 | Linked List, Performance Comparison, Main Menu and Integration |
-| AM. Saula Noora  | 23DA2-0985 | Graph and Traversal (BFS/DFS) |
+| AM. Saula Nora | 23DA2-0985 | Graph, Traversal (BFS/DFS) and Results Storage |
 
 ## Individual Contributions
 
@@ -28,10 +28,11 @@ Searching (Linear/Binary), Graph (BFS/DFS) and a performance comparison of algor
 
 **Student Name:** S. Azra Banu
 **Student ID:** 23DA2-0704
-**Assigned Responsibility:** Stack and Queue
+**Assigned Responsibility:** Stack, Queue and Input Validation
 **Individual Contribution:**
 - Implemented stack push / pop / peek / display with overflow and underflow handling (`StackDS.java`, `StackMenu.java`)
 - Implemented circular queue enqueue / dequeue / peek / display with overflow and underflow handling (`QueueDS.java`, `QueueMenu.java`)
+- Implemented the shared input validation helper used by every menu (`InputHelper.java`)
 - Tested and integrated the module with the main application
 
 **Student Name:** AM. Fathima Naseeha
@@ -40,17 +41,17 @@ Searching (Linear/Binary), Graph (BFS/DFS) and a performance comparison of algor
 **Individual Contribution:**
 - Implemented singly linked list insert (beginning/end), delete, search, display (`LinkedListDS.java`, `LinkedListMenu.java`)
 - Built the main menu and integrated all components (`Main.java`)
-- Implemented input validation helper and results storage (`InputHelper.java`, `ResultStore.java`)
 - Implemented performance comparison of Linear vs Binary search and BFS vs DFS (`PerformanceComparison.java`)
 - Tested the complete system
 
-**Student Name:** AM. Saula Noora
+**Student Name:** AM. Saula Nora
 **Student ID:** 23DA2-0985
-**Assigned Responsibility:** Graph and Traversal
+**Assigned Responsibility:** Graph, Traversal (BFS/DFS) and Results Storage
 **Individual Contribution:**
 - Implemented graph using adjacency list, add vertex, add edge, display (`GraphDS.java`)
 - Implemented BFS and DFS traversal (`GraphDS.java`, `TraversalResult.java`)
 - Implemented graph submenu (`GraphMenu.java`)
+- Implemented results storage used by "Display All Results" (`ResultStore.java`)
 - Tested and integrated the module with the main application
 
 ## Technologies Used
@@ -65,4 +66,3 @@ Display All Results, input validation, empty/full structure handling
 javac *.java
 java Main
 ```
-
