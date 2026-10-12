@@ -14,7 +14,7 @@ Searching (Linear/Binary), Graph (BFS/DFS) and a performance comparison of algor
 | J. Afrosha | 23DA2-0761 | Array and Searching |
 | S. Azra Banu | 23DA2-0704 | Stack, Queue and Input Validation |
 | AM. Fathima Naseeha | 23DA2-0726 | Linked List, Performance Comparison, Main Menu and Integration |
-| AM. Saula Nora | 23DA2-0985 | Graph, Traversal (BFS/DFS) and Results Storage |
+| AM. Saula Noor | 23DA2-0985 | Graph, Traversal (BFS/DFS) and Results Storage |
 
 ## Individual Contributions
 
