@@ -7,6 +7,9 @@ Java console application comparing the performance of Array, Linked List, Stack,
 ### 1. J. Afrosha - 23DA2-0761
 - Responsibility: Array operations and Searching
 - Files: ArrayOps, ArrayMenu, SearchOps, SearchResult, SearchMenu
+- Individual Contribution:
+  - ArrayOps and ArrayMenu: implemented insert, insert at index, delete, search and display operations on the array, with a menu-driven interface.
+  - SearchOps, SearchResult and SearchMenu: implemented linear search and binary search with step counting, and a result class to store the search outcome.
 
 ### 2. S. Azra Banu - 23DA2-0704
 - Responsibility: Stack, Queue and Input validation
